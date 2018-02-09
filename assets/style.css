@@ -1,0 +1,10 @@
+header{
+    background: saddlebrown;
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card-header{
+    background: #1570f9ad;
+    color: white;
+}
